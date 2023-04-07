@@ -15,7 +15,7 @@
 
 - 🌎 I love to travel and explore new places
 
-- ⚡ Fun facts : I love coffee , music, and applying my knowledge to real-life projects
+- ⚡ I love coffee , music, and applying my knowledge to real-life projects
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrasangiBandara](https://github.com/PrasangiBandara)
 
