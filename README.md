@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prasangi Bandara</h1>
+<h1 align="center">Hi 👋, I'm Prasangi Bandara 🌸</h1>
 <h3 align="center">Passionate about Designing, Frontend Development & UI/UX 💻❤️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasangibandara&label=Profile%20views&color=0e75b6&style=flat" alt="prasangibandara" /> </p>
